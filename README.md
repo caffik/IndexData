@@ -1,2 +1,2 @@
 # IndexData
-This data set contains processed data shared by The Heritage Foundation. Qualtitative variables was removed as well as all obvserations with N/A values. Each variable repsrest mean value of observation from 2013 to 2016. 
+This dataset contains processed data shared by The Heritage Foundation. Qualitative variables have been removed, as well as all observations with N/A values. Each variable represents the mean value of observations from 2013 to 2016.
